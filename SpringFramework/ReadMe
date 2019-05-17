@@ -1,0 +1,8 @@
+This project gives understanding of how Spring core annotations work
+
+@Component
+@Autowired
+@Qualifier
+@Configuration
+@ComponentScan(basePackages="com.practice.SpringFramework")
+@Bean
